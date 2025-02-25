@@ -44,6 +44,8 @@ LLM4S offers a structured guide for researchers and practitioners looking to lev
 2. **Evo 1 and Evo 2**  
    - **Overview**: Evolutionary models that leverage genetic algorithms to optimize neural network architectures.
    - **Contribution**: Demonstrated the effectiveness of evolutionary strategies in discovering novel and efficient model architectures.
+   - **Paper**: [Evo2: Learning credible protein fitness landscapes for design](https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1)
+   - **Code**: [GitHub Repository](https://github.com/arcinstitute/evo2)
 
 3. **BioBERT**  
    - **Overview**: A pre-trained biomedical language representation model for biomedical text mining.
